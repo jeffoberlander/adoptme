@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import Results from "./src/Results";
-import useBreedList from "./src/useBreedList";
+import Results from "./Results";
+import useBreedList from "./useBreedList";
 const ANIMALS = ["bird", "cat", "dog", "rabbit", "reptile"];
 
 const SearchParams = () => {
